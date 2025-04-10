@@ -1,8 +1,7 @@
 # **Inteligência Artificial: Fundamentos, Evolução Histórica e Subáreas Principais**
 
-**Autor:** *[Seu Nome Completo]*  
-**Instituição:** *[Nome da Instituição de Ensino]*  
-**Curso:** *[Nome do Curso]*  
+**Autor:** *Igor da silva Bueno*  
+**Instituição:** *Dio*  
 **Data:** Abril de 2025
 
 ---
